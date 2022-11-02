@@ -17,6 +17,15 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Nov, 2
++ Added Alien Hominid
++ Added Escaping the prison
+^ Make styles work better
+^ Added more reviews
+------------------------------------------------------------
+Nov, 1
+^ Bump dependencies
+------------------------------------------------------------
 Oct, 30
 + Added OvO
 + Added Fancy Pants Adventures
