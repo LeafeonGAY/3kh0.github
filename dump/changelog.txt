@@ -18,6 +18,7 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 - Means something was removed
 ------------------------------------------------------------
 Nov, 2
++ Added 10 minutes till dawn
 + Added Alien Hominid
 + Added Escaping the prison
 ^ Make styles work better
