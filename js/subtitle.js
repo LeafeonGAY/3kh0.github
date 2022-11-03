@@ -339,6 +339,16 @@ say[339] = "Preordering tickets to Disney's 2021 Cruella";
 say[340] = "Search results show you may have the black plague.";
 say[341] = "amogus";
 say[342] = "Funyuns are the greatest";
+say[343] = "What the burger!";
+say[344] = "1 in 4 Big Macs are lonely, you can fix this by downloading tinder";
+say[345] = "Dominos > Pizza hut";
+say[346] = "RagerYT";
+say[347] = "Shad, Parrot will never notice you.";
+say[348] = "HEEEEEEEEEEY";
+say[349] = "HOOOOOOOOOOO";
+say[350] = "ඞ";
+say[351] = "real?";
+say[352] = "ඞ amongus";
 
 // pick a random greeting
 var howmany = say.length;

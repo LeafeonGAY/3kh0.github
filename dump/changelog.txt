@@ -17,6 +17,10 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ^ Means something was upgraded or changed
 - Means something was removed
 ------------------------------------------------------------
+Nov, 3
++ Added Marvin Spectrum
+^ Added more splash texts
+------------------------------------------------------------
 Nov, 2
 + Added Stickman Golf
 + Added 10 minutes till dawn
@@ -28,6 +32,9 @@ Nov, 2
 ------------------------------------------------------------
 Nov, 1
 ^ Bump dependencies
+------------------------------------------------------------
+Oct, 31
+Happy Halloween! *spooky skeleton*
 ------------------------------------------------------------
 Oct, 30
 + Added OvO
