@@ -18,11 +18,13 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 - Means something was removed
 ------------------------------------------------------------
 Nov, 2
++ Added Stickman Golf
 + Added 10 minutes till dawn
 + Added Alien Hominid
 + Added Escaping the prison
 ^ Make styles work better
 ^ Added more reviews
+^ Fix 404 page styles not loading sometimes
 ------------------------------------------------------------
 Nov, 1
 ^ Bump dependencies
