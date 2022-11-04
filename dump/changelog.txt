@@ -19,6 +19,7 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ------------------------------------------------------------
 Nov, 4
 ^ Fixed error with Review image not loading
+^ Added more reviews
 ------------------------------------------------------------
 Nov, 3
 + Added Marvin Spectrum
