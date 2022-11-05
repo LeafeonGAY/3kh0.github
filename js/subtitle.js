@@ -349,6 +349,7 @@ say[349] = "HOOOOOOOOOOO";
 say[350] = "ඞ";
 say[351] = "real?";
 say[352] = "ඞ amongus";
+say[353] = "Now with over 200 games!";
 
 // pick a random greeting
 var howmany = say.length;
