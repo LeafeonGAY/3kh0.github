@@ -6708,7 +6708,7 @@ var _controllApp = new HttpClient();
   };
   function doContinuousPreviewReload() {
     cr.logexport("Reloading for continuous preview");
-    if (!!window["c2cocoonjs"]) {
+    if (window["c2cocoonjs"]) {
       CocoonJS["App"]["reload"]();
     } else {
       if (window.location.search.indexOf("continuous") > -1) window.location.reload(true);
