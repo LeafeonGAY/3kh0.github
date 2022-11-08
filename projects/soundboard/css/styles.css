@@ -76,11 +76,12 @@ body {
 div.control {
   position: fixed;
   bottom: 0;
-  left: 0;
+  right: 0;
   width: auto;
   padding: 3px;
   border: 3px solid #000;
   background: #ffffff;
+  z-index: 100;
 }
 .woah {
   cursor: pointer;

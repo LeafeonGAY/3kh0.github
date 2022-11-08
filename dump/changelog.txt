@@ -21,6 +21,7 @@ Nov, 8
 Submit your sounds for the soundboard here: https://forms.gle/1KHtjREBvbf1VCGG9
 ^ Added more sounds to the soundboard
 ^ Upgrade control menu on soundboard
+^ Fixed bug with sound buttons being wonky with the controller
 ------------------------------------------------------------
 Nov, 7
 ^ Added more splash texts
